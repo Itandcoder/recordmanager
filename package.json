@@ -1,0 +1,16 @@
+{
+  "name": "recordmanager",
+  "version": "1.0.0",
+  "description": "Record Management",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Itandcoder",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "sqlite3": "^5.1.7"
+  }
+}
